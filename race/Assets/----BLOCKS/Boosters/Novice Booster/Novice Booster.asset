@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc53ab451691ba542a498baa1e302310, type: 3}
+  m_Name: Novice Booster
+  m_EditorClassIdentifier: 
+  buildingPrefab: {fileID: 7714272997441899031, guid: 9cc679f8c3fa63a46942e0f1e0e62456, type: 3}
+  blockType: 3
+  placementSound: 0
+  DisplayName: Novice Booster
+  Description: 
+  DisplayImage: {fileID: 0}
+  Rarity: 2
+  SizeX: 1
+  SizeY: 1
+  SizeZ: 1
+  EvenSized: 1
+  blockOffset: {x: 0, y: 0, z: 0}
+  CanBeRotated: 1
+  canBeColoured: 1
+  baseMaterial: {fileID: 0}
+  PriceCubits: 12500
+  PriceAdventureCubits: 0
+  PriceGoldenCubits: 0
+  Weight: 10
+  MaxSpeed: 0
+  Acceleration: 0
+  BoostGain: 1
+  BoostCapacity: 10
+  BoostUsage: 1
+  BoostAcceleration: 2
+  BoostMaxSpeed: 5
+  SteerSpeed: 0

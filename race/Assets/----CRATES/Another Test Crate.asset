@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00252b3c22d1db243a0c10b0893890db, type: 3}
+  m_Name: Another Test Crate
+  m_EditorClassIdentifier: 
+  CrateDisplayName: Another Test Crate
+  CrateType: Customisation
+  CrateRarity: 0
+  CrateObject: {fileID: 7183041644153632800, guid: c9ef5baac71c435498eaef9f568fa0cd, type: 3}
+  SpecialAudioClip: {fileID: 0}
+  SpecialAudioVolume: 0
+  CommonChance: 0
+  RareChance: 0
+  EpicChance: 0
+  MythicChance: 0
+  DivineChance: 50
+  VintageChance: 50
+  CommonCustomisationIDs: 11000000
+  RareCustomisationIDs: 0f000000
+  EpicCustomisationIDs: 040000000500000006000000
+  MythicCustomisationIDs: 0700000008000000090000000d0000000e000000
+  DivineCustomisationIDs: 0a0000000b0000000c000000
+  VintageCustomisationIDs: 000000000100000002000000
+  CommonBlockIDs: 
+  RareBlockIDs: 
+  EpicBlockIDs: 
+  MythicBlockIDs: 
+  DivineBlockIDs: 
+  VintageBlockIDs: 
+  CommonBlockAmounts: 
+  RareBlockAmounts: 
+  EpicBlockAmounts: 
+  MythicBlockAmounts: 
+  DivineBlockAmounts: 
+  VintageBlockAmounts: 

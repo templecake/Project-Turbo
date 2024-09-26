@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc53ab451691ba542a498baa1e302310, type: 3}
+  m_Name: Basic Engine
+  m_EditorClassIdentifier: 
+  buildingPrefab: {fileID: 8240472642327611084, guid: 1e5f571f63185e84ab15b5d7e7ac769f, type: 3}
+  blockType: 2
+  placementSound: 0
+  DisplayName: Basic Engine
+  Description: 
+  DisplayImage: {fileID: 0}
+  BlockAudio: {fileID: 8300000, guid: e65b705fdc1039143ab7229d242915e2, type: 3}
+  Rarity: 1
+  SizeX: 1
+  SizeY: 1
+  SizeZ: 1
+  EvenSized: 1
+  blockOffset: {x: 0, y: 0, z: 0}
+  CanBeRotated: 1
+  canBeColoured: 1
+  baseMaterial: {fileID: 0}
+  PriceCubits: 250
+  PriceAdventureCubits: 0
+  PriceGoldenCubits: 0
+  Weight: 25
+  MaxSpeed: 10
+  Acceleration: 12
+  BoostGain: 0
+  BoostCapacity: 0
+  BoostUsage: 0
+  BoostAcceleration: 0
+  BoostMaxSpeed: 0
+  SteerSpeed: 0

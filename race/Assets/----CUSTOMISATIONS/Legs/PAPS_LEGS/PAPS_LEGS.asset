@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4493c7c0078b2404f80f7dc2cd04e1c5, type: 3}
+  m_Name: PAPS_LEGS
+  m_EditorClassIdentifier: 
+  DisplayName: Pap's Bottoms
+  Description: Surprisingly Comfy
+  DisplayImage: {fileID: 21300000, guid: 071359660c654ce41af91a49a3399eb3, type: 3}
+  Rarity: 5
+  InWorldModel: {fileID: 3179754553240546535, guid: b61baa2a72226624a915a2e7e0c0e1ed, type: 3}
+  AnimationPrefix: 
+  Customisable: 0
+  PriceCubits: 0
+  PriceAdventureCubits: 0
+  PriceGoldenCubits: 15
+  GeneralID: 2
